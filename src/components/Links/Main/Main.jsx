@@ -159,13 +159,6 @@ export function Main() {
                                     aria-describedby="modal-modal-description"
                                 >
                                     <Box sx={style}>
-                                        <Typography
-                                            id="modal-modal-title"
-                                            variant="h6"
-                                            component="h2"
-                                        >
-                                            Drag & Drop
-                                        </Typography>
                                         <Typography id="modal-modal-description" sx={{ mt: 2 }}>
                                             <DragDrop />
                                         </Typography>
