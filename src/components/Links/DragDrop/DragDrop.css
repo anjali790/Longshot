@@ -4,3 +4,11 @@
     background-color: rgb(222, 222, 222);
     color: rgb(97, 97, 97);
 }
+
+.add_outline_btn{
+    border: 1px solid rgb(121, 121, 121);
+    color: rgb(97, 97, 97);
+    width: 333px;
+    margin-top: 10px;
+    text-align: left;
+}

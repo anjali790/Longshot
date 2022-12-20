@@ -48,6 +48,7 @@ export function DragDrop() {
                         <h6 className="drag_item_list">{item[0]}</h6>
                     </div>
                 ))}
+                <button className="add_outline_btn"><i class="fa-solid fa-plus"></i> Add Outline</button>
         </>
     );
 }
