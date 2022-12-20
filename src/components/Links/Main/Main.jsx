@@ -88,7 +88,7 @@ export function Main() {
                     Database : United States{" "}
                     <img
                         className="flag"
-                        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
+                        src="https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg"
                         alt="USA Flag"
                     />
                 </span>
@@ -102,7 +102,7 @@ export function Main() {
                                 <span className="number">480</span>
                                 <img
                                     className="flag"
-                                    src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
+                                    src="https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg"
                                     alt="USA Flag"
                                 />
                             </span>
@@ -118,15 +118,15 @@ export function Main() {
                         </div>
                     </div>
                     <div className="right_cards">
-                        <div className="first_small_card">
-                            <h5 className="small_card_head">Intent</h5>
+                        <div className="first_card">
+                            <h5 className="right_card_head">Intent</h5>
                             <span className="commercial">Commercial</span>
                         </div>
-                        <div className="second_small_card">
+                        <div className="second_card">
                             <h5 className="head">Results</h5>
                             <span className="number">313M</span>
                         </div>
-                        <div className="third_small_card">
+                        <div className="third_card">
                             <div className="cpc_div">
                                 <h5 className="head">CPC</h5>
                                 <span className="number">$0.12</span>
